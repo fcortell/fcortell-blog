@@ -1,11 +1,9 @@
 ---
-layout: page
-title: About
+title: About me
+layout: single
 permalink: /about/
 ---
 
-Some information about you!
+Hi! Welcome!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is my blog. Here you will find a mix of a lot of things. Most of them useless, but hey, my land, my rules 😉
